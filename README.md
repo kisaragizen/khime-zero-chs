@@ -1,6 +1,7 @@
 程序·翻译·修图：kisaragizen  
 
 若您想要修改部分译文，或是自行构建翻译，此项目提供了其辅助工具  
+其中 amessage.asm 是对游戏主程序所进行的新增功能性质的汇编处理  
 ① 请使用 GARbro 提取出 scr.xfl 中的 2001.gsc 文件，此即为本作文本所在处  
 ② 保证 extract.py 与 2001.gsc 在同一目录并运行，程序将自动提取文本并转义控制符，存储于 extract_text.txt 与 extract_code.txt 中  
 ③ 同目录以 GBK 编码新建 translated_text.txt  
